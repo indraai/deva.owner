@@ -35,8 +35,8 @@
       "id": "dada0118-669e-4d87-baf0-15b389b3928",
       "key": "owner",
       "prompt": {
-        "emoji": "👑",
-        "text": "King",
+        "emoji": "🐲",
+        "text": "Owner",
         "colors": {
           "label": {
             "R": 0,
@@ -51,12 +51,12 @@
         }
       },
       "profile": {
-        "name": "King Deva",
-        "hashtag": "#King",
-        "title": "King Deva",
+        "name": "Owner Deva",
+        "hashtag": "#Owner",
+        "title": "Owner Deva",
         "subtitle": "Owner Deva.",
-        "describe": "He who damages the goods of another, be it intentionally or unintentionally, shall give satisfaction to the #Owner and pay to the #King a fine equal to the damage.",
-        "post": "He who damages the goods of another shall give satisfaction to the #Owner and pay to the #King a fine equal to the damage.",
+        "describe": "He who damages the goods of another, be it intentionally or unintentionally, shall give satisfaction to the #Owner and pay to the #Owner a fine equal to the damage.",
+        "post": "He who damages the goods of another shall give satisfaction to the #Owner and pay to the #Owner a fine equal to the damage.",
         "hashtags": "QuinnMichaels,IndraAI,DevaWorld,OwnerDeva",
         "pronouns": "He, Him",
         "gender": "DEVA",
