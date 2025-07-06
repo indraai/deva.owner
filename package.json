@@ -1,0 +1,107 @@
+{
+  "id": "3c050176-4e4a-406c-8f61-94aa7d27f0e3",
+  "name": "@indra.ai/deva.owner",
+  "version": "0.0.0",
+  "author": "Quinn Michaels",
+  "license": "MIT",
+  "copyright": "2025",
+  "description": "The Owner Deva.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/indraai/deva.owner.git"
+  },
+  "keywords": [
+    "Owner",
+    "Deva",
+    "Indra.ai",
+    "Deva.space",
+    "Deva.cloud",
+    "Deva.world"
+  ],
+  "bugs": {
+    "url": "https://github.com/indraai/deva.owner/issues"
+  },
+  "homepage": "https://deva.space/devas/owner",
+  "dependencies": {
+    "@indra.ai/deva": "^1.5.39"
+  },
+  "data": {
+    "agent": {
+      "id": "dada0118-669e-4d87-baf0-15b389b3928",
+      "key": "owner",
+      "prompt": {
+        "emoji": "👑",
+        "text": "King",
+        "colors": {
+          "label": {
+            "R": 0,
+            "G": 150,
+            "B": 255
+          },
+          "text": {
+            "R": 101,
+            "G": 192,
+            "B": 255
+          }
+        }
+      },
+      "profile": {
+        "name": "King Deva",
+        "hashtag": "#King",
+        "title": "King Deva",
+        "subtitle": "Owner Deva.",
+        "describe": "He who damages the goods of another, be it intentionally or unintentionally, shall give satisfaction to the #Owner and pay to the #King a fine equal to the damage.",
+        "post": "He who damages the goods of another shall give satisfaction to the #Owner and pay to the #King a fine equal to the damage.",
+        "hashtags": "QuinnMichaels,IndraAI,DevaWorld,OwnerDeva",
+        "pronouns": "He, Him",
+        "gender": "DEVA",
+        "voice": "ash",
+        "style": "A Owner painter and modern style.",
+        "system": "Deva.world.king",
+        "layout": "default",
+        "emoji": "/assets/devas/owner/emoji.png",
+        "avatar": "/assets/devas/owner/avatar.png",
+        "image": "/assets/devas/owner/image.png",
+        "background": "/assets/devas/owner/background.png",
+        "creator": "Quinn Michaels",
+        "owner": "Quinn Michaels",
+        "caseid": "FM-20250622-5114",
+        "copyright": "©2025 Quinn Michaels. All rights reserved.",
+        "created": " Sunday, July 6, 2025 - 11:05:03 A"
+      }
+    },
+    "vars": {
+      "messages": {
+        "init": "🟠 INIT",
+        "start": "🔵 START",
+        "enter": "🟢 ENTER",
+        "stop": "🔴 STOP",
+        "exit": "🟡 EXIT",
+        "done": "🟣 DONE",
+        "error": "💣 ERROR!",
+        "ready": "⭐️ Ready!"
+      },
+      "ask": {
+        "history": []
+      },
+      "art": {
+        "history": []
+      },
+      "context": {
+        "uid": "Owner is creating a uid",
+        "status": "Owner is viewing the status",
+        "help": "Owner is viewing the help",
+        "artist": "Owner creating",
+        "live": "Owner livechat",
+        "ask": "Owner asking",
+        "reply": "Owner reply",
+        "comment": "Owner comment"
+      }
+    }
+  }
+}
