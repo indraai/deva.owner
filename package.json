@@ -1,5 +1,5 @@
 {
-  "id": "3c050176-4e4a-406c-8f61-94aa7d27f0e3",
+  "id": "32006129258848085171",
   "name": "@indra.ai/deva.owner",
   "version": "0.0.16",
   "author": "Quinn Michaels",
@@ -32,7 +32,7 @@
   },
   "data": {
     "agent": {
-      "id": "dada0118-669e-4d87-baf0-15b389b3928",
+      "id": "70208401829295939330",
       "key": "owner",
       "prompt": {
         "emoji": "🐲",
