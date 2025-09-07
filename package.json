@@ -2,9 +2,23 @@
   "id": "32006129258848085171",
   "name": "@indra.ai/deva.owner",
   "version": "0.0.20",
-  "author": "Quinn Michaels",
-  "license": "MIT",
-  "copyright": "2025",
+  "license": "VLA:66649848247584781560 LICENSE.md",
+  "author": {
+    "name": "Quinn A Michaels",
+    "email": "quinn@indra.ai",
+    "url": "https://indra.ai/"
+  },
+  "funding": [
+    {
+      "type": "paypal",
+      "url": "https://paypal.me/rahulaclub"
+    },
+    {
+      "type": "patreon",
+      "url": "https://patreon.com/rahulaclub"
+    }
+  ],
+  "copyright": "(c)Copyright 2025, Quinn A Michaels; All Rights Reserved.",
   "description": "The Owner Deva.",
   "main": "index.js",
   "type": "module",
