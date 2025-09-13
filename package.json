@@ -42,14 +42,14 @@
   },
   "homepage": "https://deva.space/devas/owner",
   "dependencies": {
-    "@indra.ai/deva": "^1.6.63"
+    "@indra.ai/deva": "^1.6.64"
   },
   "data": {
     "agent": {
       "id": "70208401829295939330",
       "key": "owner",
       "prompt": {
-        "emoji": "🐲",
+        "emoji": "🩲",
         "text": "Owner",
         "colors": {
           "label": {
@@ -98,7 +98,7 @@
         "exit": "🟡 EXIT",
         "done": "🟣 DONE",
         "error": "💣 ERROR!",
-        "ready": "⭐️ Ready!"
+        "ready": "💼 Ready for Owner Verification."
       },
       "ask": {
         "history": []
