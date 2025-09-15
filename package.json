@@ -112,7 +112,7 @@
         "exit": "🟡 EXIT",
         "done": "🟣 DONE",
         "error": "💣 ERROR!",
-        "ready": "💼 Ready for Owner Verification."
+        "ready": "💼 Ready for Owner Verification"
       },
       "ask": {
         "history": []
