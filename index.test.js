@@ -1,5 +1,9 @@
-// Copyright (c)2025 Quinn Michaels
-// Indra Deva test file
+"use strict";
+// ©2025 Quinn A Michaels; All rights reserved. 
+// Legal Signature Required For Lawful Use.
+// Distributed under VLA:63563738459191595811 LICENSE.md
+
+// Owner Deva test file
 
 const {expect} = require('chai')
 const :key: = require('./index.js');
