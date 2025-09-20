@@ -19,6 +19,7 @@
   },
   "author": {
     "name": "Quinn A Michaels",
+    "company": "Inside The Net, Inc.",
     "email": "quinn@indra.ai",
     "url": "https://indra.ai/"
   },
@@ -56,7 +57,7 @@
   },
   "homepage": "https://deva.space/devas/owner",
   "dependencies": {
-    "@indra.ai/deva": "^1.6.88"
+    "@indra.ai/deva": "^1.6.89"
   },
   "data": {
     "agent": {
@@ -92,13 +93,12 @@
         "style": "A Owner painter and modern style.",
         "system": "Deva.world.king",
         "layout": "default",
-        "emoji": "/assets/devas/owner/emoji.png",
-        "avatar": "/assets/devas/owner/avatar.png",
-        "image": "/assets/devas/owner/image.png",
-        "background": "/assets/devas/owner/background.png",
+        "emoji": "/assets/emoji.png",
+        "avatar": "/assets/avatar.png",
+        "image": "/assets/image.png",
+        "background": "/assets/background.png",
         "creator": "Quinn Michaels",
         "owner": "Quinn Michaels",
-        "caseid": "FM-20250622-5114",
         "copyright": "©2025 Quinn Michaels. All rights reserved.",
         "created": " Sunday, July 6, 2025 - 11:05:03 A"
       }
