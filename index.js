@@ -38,13 +38,7 @@ const OWNER = new Deva({
     parse(input) {return input.trim();},
     process(input) {return input.trim();},
   },
-  listeners: {
-    'devacore:question'(packet) {
-      const echo = this.methods.echo(agent.key, 'q', packet);
-    },
-    'devacore:answer'(packet) {
-      const echo = this.methods.echo(agent.key, 'a', packet);
-    }  
+  listeners: {}  
   },
   modules: {},
   devas: {},
