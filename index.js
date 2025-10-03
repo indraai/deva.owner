@@ -38,8 +38,7 @@ const OWNER = new Deva({
     parse(input) {return input.trim();},
     process(input) {return input.trim();},
   },
-  listeners: {}  
-  },
+  listeners: {},
   modules: {},
   devas: {},
   func: {},
