@@ -95,12 +95,12 @@
         "style": "A Owner painter and modern style.",
         "system": "Deva.world.king",
         "layout": "default",
-        "emoji": "/assets/emoji.png",
-        "avatar": "/assets/avatar.png",
-        "image": "/assets/image.png",
-        "background": "/assets/background.png",
-        "creator": "Quinn Michaels",
-        "owner": "Quinn Michaels",
+        "emoji": "/devas/owner/emoji.png",
+        "avatar": "/devas/owner/avatar.png",
+        "image": "/devas/owner/image.png",
+        "background": "/devas/owner/background.png",
+        "creator": "Quinn A Michaels",
+        "owner": "Quinn A Michaels",
         "copyright": "Copyright ©2025 Quinn A Michaels; All rights reserved.",
         "created": " Sunday, July 6, 2025 - 11:05:03 A"
       }
