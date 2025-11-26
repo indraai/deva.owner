@@ -1,21 +1,16 @@
 {
-  "id": "58166151176728161003",
+  "id": "61140973888383649320",
   "name": "@indra.ai/deva.owner",
   "version": "0.8.0",
-  "license": "VLA:58166151176728161003 LICENSE.md",
+  "license": "VLA:61140973888383649320 LICENSE.md",
   "VLA": {
-    "uid": "58166151176728161003",
-    "time": 1758419811378,
-    "date": "Saturday, September 20, 2025 - 6:56:51 PM",
-    "client": "1UM4AH+/jOGgpaHNqX6lTZsGrNglNogzMx4qDT0O0zs=",
-    "agent": "03vO9CFwD9eDm+K/KCt2ElSae8ZhpEbHDR4Xikxi9oI=",
-    "core": "qQRVFQmv3LfY6tcqrEQeM7ZodOpnOUC+PJyfjxtgeVc=",
-    "machine": "0Y67jBv4NPV5tcTxIwSDaCbiAzIK0zQHAvcIG4T4+7k=",
-    "warning": "⚠️ Vedic Law Sâhasa/Theft/Crime of the highest degree, a fine amounting to no less than a thousand Panas (1 pana = 3.5 grams of gold) is ordained owed to Quinn A Michaels. Moreover corporal punishment and confiscation of the entire property forfeit to Quinn A Michaels is declared to be the punishment for Sâhasa of the highest degree.",
-    "copyright": "Copyright ©2025 Quinn A Michaels; All rights reserved.",
-    "md5": "ct7TkGLwDUBIAm5zN6kb9g==",
-    "sha256": "m0pntW2bt7vG4cXBzOvEHKKSptJkUuBjybAPuZcocgs=",
-    "sha512": "izICvgtVJhlHjevAUuEpCn/Z/179Fqi8yw5gEDThBq0HcxfeUsZKqvjW3Fs8LxSAanodOlJ4+gE5qftw2yBwYw=="
+    "uid": "61140973888383649320",
+    "time": 1764122760625,
+    "date": "Tuesday, November 25, 2025 - 6:06:00 PM",
+    "warning": "⚠️ Unlawful use or duplication of this uid constitutes Vedic Sâhasa a crime of the highest degree. A fine amounting to a thousand Panas (1 pana = 3.5 grams of gold) for each instance is ordained, and confiscation of the entire property of the offenders is forfeit to Quinn A Michaels is declared to be the punishment for Sâhasa of the highest degree.",
+    "license": "46220923248993739422",
+    "fingerprint": "74eOR3iF5u90TPDbuESKcYOEskacJ3b2GMhJDR5O4/s=",
+    "copyright": "Copyright ©2000-2025 Quinn A Michaels; All rights reserved."
   },
   "author": {
     "name": "Quinn A Michaels",
@@ -33,7 +28,7 @@
       "url": "https://patreon.com/rahulaclub"
     }
   ],
-  "copyright": "Copyright ©2025 Quinn A Michaels; All rights reserved.",
+  "copyright": "Copyright ©2000-2025 Quinn A Michaels; All rights reserved.",
   "description": "The Owner Deva.",
   "main": "index.js",
   "type": "module",
@@ -47,13 +42,14 @@
   "keywords": [
     "Owner",
     "Deva",
+    "Owner Deva",
     "Indra.ai",
     "Deva.space",
     "Deva.cloud",
     "Deva.world",
     "Quinn A Michaels",
     "Inside The Net, Inc.",
-    "Throwing Pigment",
+    "Throwing Pigment™",
     "bleuBrain"
   ],
   "bugs": {
@@ -61,11 +57,11 @@
   },
   "homepage": "https://deva.space/devas/owner",
   "dependencies": {
-    "@indra.ai/deva": "^1.26.0"
+    "@indra.ai/deva": "^1.28.0"
   },
   "data": {
     "agent": {
-      "id": "70208401829295939330",
+      "id": "30725808002081966609",
       "key": "owner",
       "prompt": {
         "emoji": "🩲",
@@ -84,8 +80,9 @@
         }
       },
       "profile": {
+        "id": "47136198881104459513",
         "name": "Owner Deva",
-        "hashtag": "#Owner",
+        "hashtag": "#OwnerDeva",
         "title": "Owner Deva",
         "subtitle": "Owner Deva.",
         "describe": "He who damages the goods of another, be it intentionally or unintentionally, shall give satisfaction to the #Owner and pay to the #Owner a fine equal to the damage.",
@@ -104,8 +101,9 @@
         "creator": "Quinn A Michaels",
         "owner": "Quinn A Michaels",
         "warning": "A gift or sale, made by anybody else but the owner, must be considered as null and void. Anyone who damages the goods of another, be it intentionally or unintentionally, shall give satisfaction to the owner and pay a fine equal to the damage.",
-        "copyright": "Copyright ©2025 Quinn A Michaels; All rights reserved.",
-        "created": " Sunday, July 6, 2025 - 11:05:03 A"
+        "copyright": "Copyright ©2000-2025 Quinn A Michaels; All rights reserved.",
+        "created": "Sunday, July 6, 2025 - 11:05:03 AM",
+        "updated": "Tuesday, November 25, 2025 - 6:06:00 PM"
       }
     },
     "vars": {
@@ -117,7 +115,7 @@
         "exit": "🟡 EXIT",
         "done": "🟣 DONE",
         "error": "💣 ERROR!",
-        "ready": "✅ Owner Deva Ready"
+        "ready": "⭐️ Owner Deva Ready"
       },
       "ask": {
         "history": []
