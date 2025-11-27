@@ -57,7 +57,7 @@
   },
   "homepage": "https://deva.space/devas/owner",
   "dependencies": {
-    "@indra.ai/deva": "^1.29.13"
+    "@indra.ai/deva": "^1.29.14"
   },
   "data": {
     "agent": {
