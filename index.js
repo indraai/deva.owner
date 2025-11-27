@@ -50,8 +50,7 @@ const OWNER = new Deva({
     const license_check = this.license_check(personal, agent_license); // check license
     // return this.start if license_check passes otherwise stop.
     return license_check ? this.start(data, resolve) : this.stop(data, resolve);
-  }, 
-  
+  },   
   onReady(data, resolve) {
     const {VLA} = this.info();
     this.prompt(`${this.vars.messages.ready} > VLA:${VLA.uid}`);
