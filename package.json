@@ -1,16 +1,16 @@
 {
-  "id": "61140973888383649320",
+  "id": "38424426520772762639",
   "name": "@indra.ai/deva.owner",
   "version": "0.10.0",
-  "license": "VLA:61140973888383649320 LICENSE.md",
+  "license": "VLA:38424426520772762639 LICENSE.md",
   "VLA": {
-    "uid": "61140973888383649320",
-    "time": 1764122760625,
-    "date": "Tuesday, November 25, 2025 - 6:06:00 PM",
-    "warning": "⚠️ Unlawful use or duplication of this uid constitutes Vedic Sâhasa a crime of the highest degree. A fine amounting to a thousand Panas (1 pana = 3.5 grams of gold) for each instance is ordained, and confiscation of the entire property of the offenders is forfeit to Quinn A Michaels is declared to be the punishment for Sâhasa of the highest degree.",
-    "license": "46220923248993739422",
-    "fingerprint": "74eOR3iF5u90TPDbuESKcYOEskacJ3b2GMhJDR5O4/s=",
-    "copyright": "Copyright ©2000-2025 Quinn A Michaels; All rights reserved."
+    "uid": "38424426520772762639",
+    "time": 1768059583954,
+    "date": "Saturday, January 10, 2026 - 7:39:43 AM",
+    "warning": "🪪 #LicenseDeva warns #UnlawfulUse or #Duplication constitutes #VedicSahasa a #Crime of the #HighestDegree. A #Fine amounting to 1000 #Panas (1 pana = 3.5 grams of gold) for each #Instance has been #Ordained the #Punishment for #Sahasa of the #HighestDegree. #Quinn #QuinnMichaels #IndraAI #DevaWorld #LicenseDeva #VedicLicenseAgreement",
+    "license": "44486733861528360966",
+    "fingerprint": "XK9bsOlR9JXSQi0Z20kIjU29oulMoqLjEAMRSQiErNA=",
+    "copyright": "Copyright ©2000-2026 Quinn A Michaels; All rights reserved."
   },
   "author": {
     "name": "Quinn A Michaels",
@@ -28,7 +28,7 @@
       "url": "https://patreon.com/rahulaclub"
     }
   ],
-  "copyright": "Copyright ©2000-2025 Quinn A Michaels; All rights reserved.",
+  "copyright": "Copyright ©2000-2026 Quinn A Michaels; All rights reserved.",
   "description": "The Owner Deva.",
   "main": "index.js",
   "type": "module",
@@ -87,7 +87,7 @@
         "subtitle": "Owner Deva.",
         "describe": "He who damages the goods of another, be it intentionally or unintentionally, shall give satisfaction to the #Owner and pay to the #Owner a fine equal to the damage.",
         "post": "He who damages the goods of another shall give satisfaction to the #Owner and pay to the #Owner a fine equal to the damage.",
-        "hashtags": "QuinnMichaels,IndraAI,DevaWorld,OwnerDeva",
+        "hashtags": "#Quinn #QuinnMichaels #InsideTheNet #ThrowingPigment #bleuBrain #IndraAI #DevaWorld #OwnerDeva",
         "pronouns": "He, Him",
         "gender": "DEVA",
         "voice": "ash",
@@ -100,10 +100,10 @@
         "background": "/devas/owner/background.png",
         "creator": "Quinn A Michaels",
         "owner": "Quinn A Michaels",
-        "warning": "A gift or sale, made by anybody else but the owner, must be considered as null and void. Anyone who damages the goods of another, be it intentionally or unintentionally, shall give satisfaction to the owner and pay a fine equal to the damage.",
-        "copyright": "Copyright ©2000-2025 Quinn A Michaels; All rights reserved.",
+        "warning": "{{prompt.emoji}} {{profile.name}} {{profile.hashtag}} A gift or sale, made by anybody else but the owner, must be considered as null and void. Anyone who damages the goods of another, be it intentionally or unintentionally, shall give satisfaction to the owner and pay a fine equal to the damage. {{profile.hashtags}}",
+        "copyright": "Copyright ©2000-2026 Quinn A Michaels; All rights reserved.",
         "created": "Sunday, July 6, 2025 - 11:05:03 AM",
-        "updated": "Tuesday, November 25, 2025 - 6:06:00 PM"
+        "updated": "Saturday, January 10, 2026 - 7:39:43 AM"
       }
     },
     "vars": {
@@ -115,7 +115,7 @@
         "exit": "🟡 EXIT",
         "done": "🟣 DONE",
         "error": "💣 ERROR!",
-        "ready": "⭐️ Owner Deva Ready"
+        "ready": "🩲 Owner Deva Ready"
       },
       "ask": {
         "history": []
