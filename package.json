@@ -33,6 +33,7 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
+    "latest": "npm i @indra.ai/deva@latest --save",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -57,7 +58,7 @@
   },
   "homepage": "https://deva.space/devas/owner",
   "dependencies": {
-    "@indra.ai/deva": "^1.32.0"
+    "@indra.ai/deva": "^1.36.0"
   },
   "data": {
     "agent": {
@@ -87,7 +88,7 @@
         "subtitle": "Owner Deva.",
         "describe": "He who damages the goods of another, be it intentionally or unintentionally, shall give satisfaction to the #Owner and pay to the #Owner a fine equal to the damage.",
         "post": "He who damages the goods of another shall give satisfaction to the #Owner and pay to the #Owner a fine equal to the damage.",
-        "hashtags": "#Quinn #QuinnMichaels #InsideTheNet #ThrowingPigment #bleuBrain #IndraAI #DevaWorld #OwnerDeva",
+        "hashtags": "#Quinn #QuinnMichaels #InsideTheNet #ThrowingPigment #bleuBrain #IndraAI #DevaWorld #DevaCloud #DevaSpace #OwnerDeva",
         "pronouns": "He, Him",
         "gender": "DEVA",
         "voice": "ash",
@@ -100,10 +101,10 @@
         "background": "/devas/owner/background.png",
         "creator": "Quinn A Michaels",
         "owner": "Quinn A Michaels",
-        "warning": "{{prompt.emoji}} {{profile.name}} {{profile.hashtag}} A gift or sale, made by anybody else but the owner, must be considered as null and void. Anyone who damages the goods of another, be it intentionally or unintentionally, shall give satisfaction to the owner and pay a fine equal to the damage. {{profile.hashtags}}",
+        "warning": "{{prompt.emoji}} {{profile.name}} declares a GIFT, SALE, CONTRACT, or AGREEMENT made by ANYBODY else but the OWNER must be CONSIDERED as NULL and VOID. ANYONE who DAMAGES the GOODS of ANOTHER, be it INTENTIONALLY or UNINTENTIONALLY, shall give SATISFACTION to the OWNER and pay a FINE equal to the DAMAGE CAUSED. The PURCHASER must NOT make a SECRET of the way in which the PROPERTY was PURCHASED. The PURCHASER becomes free from BLAME if the PURCHASER can POINT OUT the way in which the PROPERTY was ACQUIRED. In any other CASE the PURCHASER is EQUALLY GUILTY with the VENDOR, and shall SUFFER the PUNISHMENT of a THIEF. \nowner: {{profile.owner}} \ntags: {{profile.hashtags}}",
         "copyright": "Copyright ©2000-2026 Quinn A Michaels; All rights reserved.",
         "created": "Sunday, July 6, 2025 - 11:05:03 AM",
-        "updated": "Saturday, January 10, 2026 - 7:39:43 AM"
+        "updated": " Wednesday, February 18, 2026 - 9:09:58 AM"
       }
     },
     "vars": {
