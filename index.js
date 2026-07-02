@@ -1,9 +1,9 @@
 "use strict";
 // Owner Deva
-// Copyright ©2000-2026 Quinn A Michaels; All rights reserved. 
-// Legal Signature Required For Lawful Use.
-// Distributed under VLA:38424426520772762639 LICENSE.md
-// Saturday, January 10, 2026 - 7:39:43 AM
+// Copyright ©2000-2026 Quinn America Michaels; All rights reserved. 
+// Owner Signature Required For Lawful Use.
+// Distributed under VLA:64287478965817882005 LICENSE.md
+// Wednesday, July 1, 2026 - 8:38:51 PM PST
 
 import Deva from '@indra.ai/deva';
 import pkg from './package.json' with {type:'json'};
