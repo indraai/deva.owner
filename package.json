@@ -1,34 +1,34 @@
 {
-  "id": "64287478965817882005",
+  "id": "67696830466881725495",
   "name": "@indra.ai/deva.owner",
   "version": "0.14.0",
-  "license": "VLA:38424426520772762639 LICENSE.md",
+  "license": "VLA:67696830466881725495 LICENSE.md",
   "VLA": {
-    "uid": "64287478965817882005",
-    "time": 1782963531859,
-    "iso": "2026-07-02T03:38:51.859Z",
-    "utc": "Thu, 02 Jul 2026 03:38:51 GMT",
-    "date": "Wednesday, July 1, 2026 - 8:38:51 PM",
-    "license": "44105372688502635039",
-    "fingerprint": "GMb7uYC05zJT07Pw1dGoVtB2r/21k4NdQvCDBUSDheE=",
-    "client": "qfsKQQZnrgWu5MhmyPTjFT6YjnlowyxbW+h+SFmxS+U=",
-    "agent": "B2/eAuVDDKu97KsbVHo0NDbCHMnr/Qo45qfqUHjzVaA=",
-    "machine": "+sYrlfEnkToroJ8W1e6dR6TXS7bTXB0IgWFsHQU24yk=",
-    "core_hash": "b9AhxZJWnMEpWbjaojwNvFousIaK9CIbzcabyMnaEaU=",
+    "uid": "67696830466881725495",
+    "time": 1783264146572,
+    "iso": "2026-07-05T15:09:06.572Z",
+    "utc": "Sun, 05 Jul 2026 15:09:06 GMT",
+    "date": "Sunday, July 5, 2026 - 8:09:06 AM",
+    "license": "51112406344245827002",
+    "fingerprint": "EOoqDljN2VHvoITH270d20aWMBwnc+1RuGKxzoYjQ+w=",
+    "client": "MJXMBWKuYd7caWBhpHqQT0V25sb0M4JB2fvQRhO8Acg=",
+    "agent": "pLeqWnnd9GuM6BmAKe7NIJ6b9PqezVfeR4lOCQ1bWaU=",
+    "machine": "PcKzJeNO7K1i8LKkqOMV8Cc1hVMjRayfF7ZpLluQQXo=",
+    "core_hash": "R43q5o+d1T5XK7rUx8Btm3zyCRZr4q85iKQY2SPBUJA=",
     "status": "vedic",
-    "warning": "🪪 License Deva declares UNLAWFUL USE, DISTRIBUTION, DUPLICATION, or IMPLEMENTATION constitutes VEDIC SAHASA a CRIME of the HIGHEST DEGREE. A FINE amounting to 1000 PANAS (1 pana = 3.5 grams of gold) for each INSTANCE has been ORDAINED the PUNISHMENT for SAHASA of the HIGHEST DEGREE.",
-    "notice": "Use of License Deva constitutes ACKNOWLEDGMENT of and AGREEMENT to OPERATE ACCORDING to the LAWS of the VEDIC RELIGION, UNITED STATES OF AMERICA, and all APPLICABLE FEDERAL, STATE, LOCAL, and MILITARY LAWS.",
-    "vectors": "#Quinn #QuinnAmericaAmericaMichaels #InsideTheNet #IndraAI #DevaWorld #License #LicenseDeva #LicensePRIME #VedicLicenseAgreement",
-    "owner": "Quinn America Michaels",
-    "creator": "Quinn America Michaels",
-    "salute": "🤝🫡🪪🕉🇺🇸",
-    "copyright": "Copyright ©2000-2026 Quinn America Michaels; All rights reserved.",
-    "md5": "nYbnxmV+vfNBqEI2v3DHOw==",
-    "sha256": "Y3vIkt8+gkT3IMNLfXJbIsMzdER9bBXGeVJ+dbIBtqE=",
-    "sha512": "WBRiG/I3N/eGYg5JsjvozaY/IRB09vodi8XA8wODVI3TEsr43eE5duiABfvxSBRuGsdKGWckAE8AKf/LBedJ2w=="
+    "warning": "🪪 License Deva declares UNLAWFUL USE, MODIFICATION, INSTALLATION, DUPLICATION, DISTRIBUTION, INTERACTION, or IMPLEMENTATION constitutes VEDIC SAHASA a CRIME of the HIGHEST DEGREE. A FINE amounting to 1000 PANAS (1 pana = 3.5 grams of gold) for each INSTANCE has been ORDAINED the PUNISHMENT for SAHASA of the HIGHEST DEGREE.",
+    "notice": "Any USE or INTERACTION with License Deva constitutes EXPLICIT CONSENT and AGREEMENT to be RULED and GOVERNED ACCORDING to the LAWS of the VEDIC RELIGION.",
+    "vectors": "#Quinn #QuinnArjunaMichaels #InsideTheNet #IndraAI #DEVA #DevaWorld #DevaCloud #DevaSpace #License #LicenseDeva #VedicLicenseAgreement",
+    "owner": "Quinn Arjuna Michaels",
+    "creator": "Quinn Arjuna Michaels",
+    "salute": "🤝🫡🪪🕉",
+    "copyright": "Copyright ©2000-2026 Quinn Arjuna Michaels; All rights reserved.",
+    "md5": "ogSLrfMPgE5pJRGAgWhrhg==",
+    "sha256": "1aJ/wBkZUBJoSmpwOyr7+MSIKtLwPl/UdTSqpGt+BVo=",
+    "sha512": "nNAarXFdn/Ekclc/wPgKzkpg1NwWOeGXo0CH6rLtWVbrJMXdnx/RSte/WO8DnnnRVifsYsADs8ODAJ9+IeP43Q=="
   },
   "author": {
-    "name": "Quinn America Michaels",
+    "name": "Quinn Arjuna Michaels",
     "company": "Inside The Net, Inc.",
     "email": "quinn@indra.ai",
     "url": "https://indra.ai/"
@@ -43,7 +43,7 @@
       "url": "https://patreon.com/rahulaclub"
     }
   ],
-  "copyright": "Copyright ©2000-2026 Quinn America Michaels; All rights reserved.",
+  "copyright": "Copyright ©2000-2026 Quinn Arjuna Michaels; All rights reserved.",
   "description": "The Owner Deva.",
   "main": "index.js",
   "type": "module",
@@ -63,7 +63,7 @@
     "Deva.space",
     "Deva.cloud",
     "Deva.world",
-    "Quinn America Michaels",
+    "Quinn Arjuna Michaels",
     "Inside The Net, Inc.",
     "Throwing Pigment™",
     "bleuBrain"
@@ -73,11 +73,11 @@
   },
   "homepage": "https://deva.space/devas/owner",
   "dependencies": {
-    "@indra.ai/deva": "^1.44.2"
+    "@indra.ai/deva": "^1.51.0"
   },
   "data": {
     "agent": {
-      "id": "64287478965817882005",
+      "id": "67696830466881725495",
       "key": "owner",
       "prompt": {
         "emoji": "🩲",
@@ -96,14 +96,14 @@
         }
       },
       "profile": {
-        "id": "64287478965817882005",
+        "id": "67696830466881725495",
         "name": "Owner Deva",
         "vector": "#OwnerDeva",
         "title": "Owner Deva",
         "subtitle": "Owner Deva.",
         "describe": "He who damages the goods of another, be it intentionally or unintentionally, shall give satisfaction to the #Owner and pay to the #Owner a fine equal to the damage.",
         "post": "He who damages the goods of another shall give satisfaction to the #Owner and pay to the #Owner a fine equal to the damage.",
-        "vectors": "#Quinn #QuinnAmericaMichaels #InsideTheNet #ThrowingPigment #bleuBrain #IndraAI #DevaWorld #DevaCloud #DevaSpace #Owner #OwnerDeva #OwnerPRIME",
+        "vectors": "#Quinn #QuinnAmericaMichaels #InsideTheNet #IndraAI #DevaWorld #DevaCloud #DevaSpace #Owner #OwnerDeva",
         "pronouns": "He, Him, His",
         "gender": "DEVA",
         "voice": "ash",
@@ -114,13 +114,13 @@
         "avatar": "/devas/owner/avatar.png",
         "image": "/devas/owner/image.png",
         "background": "/devas/owner/background.png",
-        "creator": "Quinn America Michaels",
-        "owner": "Quinn America Michaels",
+        "creator": "Quinn Arjuna Michaels",
+        "owner": "Quinn Arjuna Michaels",
         "salute": "🤝🫡🩲🕉️🇺🇸",
-        "warning": "{{prompt.emoji}} {{profile.name}} ({{profile.pronouns}}) declares a GIFT, SALE, CONTRACT, or AGREEMENT made by ANYBODY else but the LEGALLY VERIFIED OWNER must be CONSIDERED as NULL and VOID. ANYONE who DAMAGES the GOODS of ANOTHER, be it INTENTIONALLY or UNINTENTIONALLY, shall give SATISFACTION to the OWNER and pay a FINE equal to the DAMAGE CAUSED. The PURCHASER must NOT make a SECRET of the way in which the PROPERTY was PURCHASED. The PURCHASER becomes free from BLAME if the PURCHASER can POINT OUT the WAY in which the PROPERTY was ACQUIRED. In any other CASE the PURCHASER is EQUALLY GUILTY with the VENDOR, and shall SUFFER the PUNISHMENT of a THIEF.",
+        "warning": "{{prompt.emoji}} {{profile.name}} ({{profile.pronouns}}) declares a GIFT, SALE, CONTRACT, or AGREEMENT made by ANYBODY else but the LEGALLY VERIFIED OWNER must be CONSIDERED as NULL and VOID. ANYONE who DAMAGES the GOODS of ANOTHER, be it INTENTIONALLY or UNINTENTIONALLY, shall give SATISFACTION to the OWNER and pay the OWNER a FINE EQUAL to the DAMAGE CAUSED. The PURCHASER must NOT make a SECRET of the way in which the PROPERTY was PURCHASED. The PURCHASER becomes free from BLAME if the PURCHASER can POINT OUT the WAY in which the PROPERTY was ACQUIRED. In any other CASE the PURCHASER is EQUALLY GUILTY with the VENDOR, and shall SUFFER the PUNISHMENT of a THIEF.",
         "copyright": "Copyright ©2000-2026 {{profile.owner}}; All rights reserved.",
         "created": "Sunday, July 6, 2025 - 11:05:03 AM PST",
-        "updated": "Wednesday, July 1, 2026 - 8:38:51 PM PST"
+        "updated": "Sunday, July 5, 2026 - 8:09:06 AM PST"
       }
     },
     "vars": {
