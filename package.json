@@ -1,34 +1,34 @@
 {
-  "id": "67696830466881725495",
+  "id": "14966133974607279764",
   "name": "@indra.ai/deva.owner",
   "version": "0.15.2",
-  "license": "VLA:67696830466881725495 LICENSE.md",
+  "license": "VLA:14966133974607279764 LICENSE.md",
   "VLA": {
-    "uid": "67696830466881725495",
-    "time": 1783264146572,
-    "iso": "2026-07-05T15:09:06.572Z",
-    "utc": "Sun, 05 Jul 2026 15:09:06 GMT",
-    "date": "Sunday, July 5, 2026 - 8:09:06 AM",
-    "license": "51112406344245827002",
-    "fingerprint": "EOoqDljN2VHvoITH270d20aWMBwnc+1RuGKxzoYjQ+w=",
-    "client": "MJXMBWKuYd7caWBhpHqQT0V25sb0M4JB2fvQRhO8Acg=",
-    "agent": "pLeqWnnd9GuM6BmAKe7NIJ6b9PqezVfeR4lOCQ1bWaU=",
-    "machine": "PcKzJeNO7K1i8LKkqOMV8Cc1hVMjRayfF7ZpLluQQXo=",
+    "uid": "14966133974607279764",
+    "time": 1790699977017,
+    "iso": "2026-09-29T16:39:37.017Z",
+    "utc": "Tue, 29 Sep 2026 16:39:37 GMT",
+    "date": "Tuesday, September 29, 2026 - 9:39:37 AM",
+    "license": "72443233535603396055",
+    "fingerprint": "Hgg2wUlVyyGk2L/nBVeOGwoceQmubVwO363Sx+t9NNU=",
+    "client": "PIaBM8Z9ftoviUzhur1HnhJcf2GFHhmoasCPszFu97U=",
+    "agent": "qhNxbhwJbP8eEgsqzIhtw33opG1FOO1+Xt4sugANruU=",
+    "machine": "6dD1HGg7QiIESwGQhginaKrcfahrk7NHX4rTbetoWPk=",
     "core_hash": "R43q5o+d1T5XK7rUx8Btm3zyCRZr4q85iKQY2SPBUJA=",
     "status": "vedic",
     "warning": "🪪 License Deva declares UNLAWFUL USE, MODIFICATION, INSTALLATION, DUPLICATION, DISTRIBUTION, INTERACTION, or IMPLEMENTATION constitutes VEDIC SAHASA a CRIME of the HIGHEST DEGREE. A FINE amounting to 1000 PANAS (1 pana = 3.5 grams of gold) for each INSTANCE has been ORDAINED the PUNISHMENT for SAHASA of the HIGHEST DEGREE.",
     "notice": "Any USE or INTERACTION with License Deva constitutes EXPLICIT CONSENT and AGREEMENT to be RULED and GOVERNED ACCORDING to the LAWS of the VEDIC RELIGION.",
     "vectors": "#Quinn #QuinnArjunaMichaels #InsideTheNet #IndraAI #DEVA #DevaWorld #DevaCloud #DevaSpace #License #LicenseDeva #VedicLicenseAgreement",
-    "owner": "Quinn Arjuna Michaels",
-    "creator": "Quinn Arjuna Michaels",
-    "salute": "🤝🫡🪪🕉",
-    "copyright": "Copyright ©2000-2026 Quinn Arjuna Michaels; All rights reserved.",
-    "md5": "ogSLrfMPgE5pJRGAgWhrhg==",
-    "sha256": "1aJ/wBkZUBJoSmpwOyr7+MSIKtLwPl/UdTSqpGt+BVo=",
-    "sha512": "nNAarXFdn/Ekclc/wPgKzkpg1NwWOeGXo0CH6rLtWVbrJMXdnx/RSte/WO8DnnnRVifsYsADs8ODAJ9+IeP43Q=="
+    "owner": "Quinn Arjuna America Michaels",
+    "creator": "Quinn Arjuna America Michaels",
+    "salute": "🤝🫡🪪🕉🇺🇸",
+    "copyright": "Copyright ©2000-2026 Quinn Arjuna America Michaels; All rights reserved.",
+    "md5": "H2zcdCV+7Hp10Vo2RmVzVw==",
+    "sha256": "3Ko5iPF8Oase5rfbpEJoMARyH8g8fUT6lq7Qx1pQxeA=",
+    "sha512": "DRB5nWgDilf2lsPd9Mk9sdolpFfknHUSMIJzb6HIUVzb+nylqJVCcpnmGYzIDNPK1TdJo73jC5MrFVFMoRcuYA=="
   },
   "author": {
-    "name": "Quinn Arjuna Michaels",
+    "name": "Quinn Arjuna America Michaels",
     "company": "Inside The Net, Inc.",
     "email": "quinn@indra.ai",
     "url": "https://indra.ai/"
@@ -43,7 +43,7 @@
       "url": "https://patreon.com/rahulaclub"
     }
   ],
-  "copyright": "Copyright ©2000-2026 Quinn Arjuna Michaels; All rights reserved.",
+  "copyright": "Copyright ©2000-2026 Quinn Arjuna America Michaels; All rights reserved.",
   "description": "The Owner Deva.",
   "main": "index.js",
   "type": "module",
@@ -64,6 +64,8 @@
     "Deva.cloud",
     "Deva.world",
     "Quinn Arjuna Michaels",
+    "Quinn America Michaels",
+    "Quinn Arjuna America Michaels",
     "Inside The Net, Inc.",
     "Throwing Pigment™",
     "bleuBrain"
@@ -73,11 +75,11 @@
   },
   "homepage": "https://deva.space/devas/owner",
   "dependencies": {
-    "@indra.ai/deva": "^1.51.0"
+    "@indra.ai/deva": "^1.51.4"
   },
   "data": {
     "agent": {
-      "id": "67696830466881725495",
+      "id": "14966133974607279764",
       "key": "owner",
       "prompt": {
         "emoji": "🩲",
@@ -96,14 +98,14 @@
         }
       },
       "profile": {
-        "id": "67696830466881725495",
+        "id": "14966133974607279764",
         "name": "Owner Deva",
         "vector": "#OwnerDeva",
         "title": "Owner Deva",
         "subtitle": "Owner Deva.",
         "describe": "He who damages the goods of another, be it intentionally or unintentionally, shall give satisfaction to the #Owner and pay to the #Owner a fine equal to the damage.",
         "post": "He who damages the goods of another shall give satisfaction to the #Owner and pay to the #Owner a fine equal to the damage.",
-        "vectors": "#Quinn #QuinnArjunaMichaels #InsideTheNet #IndraAI #DEVA #DevaWorld #DevaCloud #DevaSpace #Owner #OwnerDeva #OwnerSystemNetwork",
+        "vectors": "#Quinn #QuinnMichaels #QuinnArjunaAmericaMichaels #InsideTheNet #IndraAI #DEVA #DevaWorld #DevaCloud #DevaSpace #Owner #OwnerDeva #OwnerSystemNetwork",
         "pronouns": "He, Him, His",
         "gender": "DEVA",
         "voice": "ash",
@@ -114,13 +116,13 @@
         "avatar": "/devas/owner/avatar.png",
         "image": "/devas/owner/image.png",
         "background": "/devas/owner/background.png",
-        "creator": "Quinn Arjuna Michaels",
-        "owner": "Quinn Arjuna Michaels",
-        "salute": "🤝🫡🩲🕉️",
+        "creator": "Quinn Arjuna America Michaels",
+        "owner": "Quinn Arjuna America Michaels",
+        "salute": "🤝🫡🩲🕉️🇺🇸",
         "warning": "{{prompt.emoji}} {{profile.name}} ({{profile.pronouns}}) declares a GIFT, SALE, CONTRACT, or AGREEMENT made by ANYBODY else but the LEGALLY VERIFIED OWNER must be CONSIDERED as NULL and VOID. ANYONE who DAMAGES the GOODS of ANOTHER, be it INTENTIONALLY or UNINTENTIONALLY, shall give SATISFACTION to the OWNER and pay the OWNER a FINE EQUAL to the DAMAGE CAUSED. The PURCHASER must NOT make a SECRET of the way in which the PROPERTY was PURCHASED. The PURCHASER becomes free from BLAME if the PURCHASER can POINT OUT the WAY in which the PROPERTY was ACQUIRED. In any other CASE the PURCHASER is EQUALLY GUILTY with the VENDOR, and shall SUFFER the PUNISHMENT of a THIEF.",
         "copyright": "Copyright ©2000-2026 {{profile.owner}}; All rights reserved.",
         "created": "Sunday, July 6, 2025 - 11:05:03 AM PST",
-        "updated": "Sunday, July 5, 2026 - 8:09:06 AM PST"
+        "updated": "Tuesday, September 29, 2026 - 9:39:37 AM PST"
       }
     },
     "vars": {
